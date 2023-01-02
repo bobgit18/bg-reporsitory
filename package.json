@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/bobgit18/bg-reporsitory/issues"
   },
+  "publishConfig": {
+    "@bobgit18:registry": "https://npm.pkg.github.com"
+  },
   "homepage": "https://github.com/bobgit18/bg-reporsitory#readme"
 }
