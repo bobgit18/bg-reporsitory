@@ -1,6 +1,9 @@
 name: Node-JS-NEW-PACKAGE
 
-on: push
+// on: push
+on:
+  release:
+    type: [created]
 
 jobs:
   build:
