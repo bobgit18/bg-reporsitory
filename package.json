@@ -1,0 +1,22 @@
+{
+  "name": "@bgu035/bg-reporsitory",
+  "version": "1.0.0",
+  "description": "testing publish repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bobgit18/bg-reporsitory.git"
+  },
+  "keywords": [
+    "bg"
+  ],
+  "author": "Bobby Gupta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bobgit18/bg-reporsitory/issues"
+  },
+  "homepage": "https://github.com/bobgit18/bg-reporsitory#readme"
+}
