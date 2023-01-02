@@ -1,6 +1,5 @@
 name: Node-JS-NEW-PACKAGE
 
-// on: push
 on:
   release:
     type: [created]
